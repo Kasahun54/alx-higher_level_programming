@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    # Print the sum, div, mul and addition
+    """ Print the sum, div, mul and addition"""
     from calculator_1 import add, sub, mul, div
 
     a = 10
