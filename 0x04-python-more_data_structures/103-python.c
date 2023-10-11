@@ -20,7 +20,7 @@ void print_python_bytes(PyObject *p)
 		return;
 	}
 
-	s = ((PyVarObject *)(p))->ob_size;
+	s = ((PyVarObject *)(p))->ob_s;
 	string = ((PyBytesObject *)p)->ob_sval;
 
 	printf("size: %ld\n", s);
@@ -55,7 +55,7 @@ void print_python_list(PyObject *p)
 	PyListObject *list;
 	PyObject *obj;
 
-	s = ((PyVarObject *)(p))->ob_size;
+	s = ((PyVarObject *)(p))->ob_s;
 	list = (PyListObject *)p;
 
 	printf("[*] Python list info\n");
