@@ -2,7 +2,7 @@
 """ Working on oop with python """
 
 
-class Square():
+class Square:
     """Class representing a square"""
 
     def __init__(self, size):
