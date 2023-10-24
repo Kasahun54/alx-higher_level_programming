@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 """ Working on oop with python """
 
-
 class Square:
-    """Class representing a square"""
+    """Class representing a Square"""
 
     def __init__(self, size):
         """ initialize the class
