@@ -1,6 +1,7 @@
 #!/usr/bin/python3
+""" created empty calss square"""
 
-class Square:
+class square:
     """Empty class"""
     pass
 
