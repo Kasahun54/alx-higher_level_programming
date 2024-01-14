@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-lists all City objects from a database
+lists all City objects
 """
 
 import sqlalchemy

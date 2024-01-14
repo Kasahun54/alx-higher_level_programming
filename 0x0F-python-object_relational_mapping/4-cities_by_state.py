@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
-'''script that lists all cities from database 'hbtn_0e_0_usa'''''
+"""
+script that lists all cities 
+"""
 
 import MySQLdb
 import sys

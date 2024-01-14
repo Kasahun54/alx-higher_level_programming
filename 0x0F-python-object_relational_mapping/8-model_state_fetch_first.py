@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
-'8-model_state_fetch_first' module, uses sqlalchemy to list first state
-object from a database
+Uses sqlalchemy to list first state
 """
 if __name__ == '__main__':
         from model_state import Base, State

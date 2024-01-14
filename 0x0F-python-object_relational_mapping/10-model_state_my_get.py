@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
-'10-model_state_my_get' module, uses sqlalchemy to list state
-objects from a database
+uses sqlalchemy to list state
 """
 if __name__ == '__main__':
         from model_state import Base, State
