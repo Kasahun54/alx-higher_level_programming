@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-State and an instance Base definition 
+State and an instance Base definition
 """
 
 import sqlalchemy
