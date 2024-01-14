@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-script that lists all cities 
+script that lists all cities
 """
 
 import MySQLdb
