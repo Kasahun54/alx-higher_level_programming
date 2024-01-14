@@ -1,0 +1,1 @@
+This directory contain python with mysql code
